@@ -5,12 +5,12 @@ To use the library add the script hub_op.py to the folder where you want to use 
 
 7 examples are provided to help with the usage of this library. 
 
-*Example 1 shows a primitive method to make a Hubbard Operator. This is the way the Hubbard operators are stored by the program but there are better ways to do the same procedure.
+* Example 1 shows a primitive method to make a Hubbard Operator. This is the way the Hubbard operators are stored by the program but there are better ways to do the same procedure.
 
-*Example 2 shows how a LaTeX expression of Hubbard Operator can be taken as an input.
+* Example 2 shows how a LaTeX expression of Hubbard Operator can be taken as an input.
 
-*Example 3 and 4 shows how to calculate a commutator of Hubbard Operators. Example 5 calculates a simple product between two Hubbard Operators
+* Example 3 and 4 shows how to calculate a commutator of Hubbard Operators. Example 5 calculates a simple product between two Hubbard Operators
 
-*Example 6 shows a function which can be used to do a summation over sigma.
+* Example 6 shows a function which can be used to do a summation over sigma.
 
-*Example 7 is perhaps the most important. This might be all you need to use. Given a number of operators this program extensively calculates all possible commutators between any two terms. This process can be similarly extended to calculate even higher order terms.
+* Example 7 is perhaps the most important. This might be all you need to use. Given a number of operators this program extensively calculates all possible commutators between any two terms. This process can be similarly extended to calculate even higher order terms.
