@@ -15,4 +15,4 @@ To use the library add the script hub_op.py to the folder where you want to use 
 
 * Example 6 shows a function which can be used to do a summation over sigma.
 
-* Example 7 is perhaps the most important. This might be all you need to use. Given a number of operators this program extensively calculates all possible commutators between any two terms. This process can be similarly extended to calculate even higher order terms.
+* Example 7 is perhaps the most important. This might be all you need to use. Given a number of operators this program extensively calculates all possible commutators between any two terms. This process can be similarly extended to calculate even higher order terms. Code is also written to write these expressions to a txt file. This was manually interpreted using TexStudio to get the compiled expressions of the results.
